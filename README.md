@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurbehere&label=Profile%20views&color=0e75b6&style=flat" alt="mayurbehere" /> </p>
 
-- 🔭 I’m currently working on [OnePlace Manga Website](https://github.com/MayurBehere/OnePlaceManga)
+- 🔭 I’m currently working on [ResumeIt](https://github.com/MayurBehere/ResumeIt)
 
 - 🌱 I’m currently learning **React JS and Native**
 
